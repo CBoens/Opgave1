@@ -1,0 +1,9 @@
+C:\3semesteroplopg\Bog\Bog\bin\Debug\netcoreapp2.1\Bog.deps.json
+C:\3semesteroplopg\Bog\Bog\bin\Debug\netcoreapp2.1\Bog.dll
+C:\3semesteroplopg\Bog\Bog\bin\Debug\netcoreapp2.1\Bog.pdb
+C:\3semesteroplopg\Bog\Bog\obj\Debug\netcoreapp2.1\Bog.csprojAssemblyReference.cache
+C:\3semesteroplopg\Bog\Bog\obj\Debug\netcoreapp2.1\Bog.csproj.CoreCompileInputs.cache
+C:\3semesteroplopg\Bog\Bog\obj\Debug\netcoreapp2.1\Bog.AssemblyInfoInputs.cache
+C:\3semesteroplopg\Bog\Bog\obj\Debug\netcoreapp2.1\Bog.AssemblyInfo.cs
+C:\3semesteroplopg\Bog\Bog\obj\Debug\netcoreapp2.1\Bog.dll
+C:\3semesteroplopg\Bog\Bog\obj\Debug\netcoreapp2.1\Bog.pdb

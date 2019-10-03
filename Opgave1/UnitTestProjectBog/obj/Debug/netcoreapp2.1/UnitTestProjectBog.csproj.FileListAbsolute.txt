@@ -1,0 +1,17 @@
+C:\3semesteroplopg\Bog\UnitTestProjectBog\obj\Debug\netcoreapp2.1\UnitTestProjectBog.csprojAssemblyReference.cache
+C:\3semesteroplopg\Bog\UnitTestProjectBog\obj\Debug\netcoreapp2.1\UnitTestProjectBog.csproj.CoreCompileInputs.cache
+C:\3semesteroplopg\Bog\UnitTestProjectBog\obj\Debug\netcoreapp2.1\UnitTestProjectBog.AssemblyInfoInputs.cache
+C:\3semesteroplopg\Bog\UnitTestProjectBog\obj\Debug\netcoreapp2.1\UnitTestProjectBog.AssemblyInfo.cs
+C:\3semesteroplopg\Bog\UnitTestProjectBog\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\3semesteroplopg\Bog\UnitTestProjectBog\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\3semesteroplopg\Bog\UnitTestProjectBog\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\3semesteroplopg\Bog\UnitTestProjectBog\bin\Debug\netcoreapp2.1\UnitTestProjectBog.deps.json
+C:\3semesteroplopg\Bog\UnitTestProjectBog\bin\Debug\netcoreapp2.1\UnitTestProjectBog.runtimeconfig.json
+C:\3semesteroplopg\Bog\UnitTestProjectBog\bin\Debug\netcoreapp2.1\UnitTestProjectBog.runtimeconfig.dev.json
+C:\3semesteroplopg\Bog\UnitTestProjectBog\bin\Debug\netcoreapp2.1\UnitTestProjectBog.dll
+C:\3semesteroplopg\Bog\UnitTestProjectBog\bin\Debug\netcoreapp2.1\UnitTestProjectBog.pdb
+C:\3semesteroplopg\Bog\UnitTestProjectBog\bin\Debug\netcoreapp2.1\Library.dll
+C:\3semesteroplopg\Bog\UnitTestProjectBog\bin\Debug\netcoreapp2.1\Library.pdb
+C:\3semesteroplopg\Bog\UnitTestProjectBog\obj\Debug\netcoreapp2.1\UnitTestProjectBog.csproj.CopyComplete
+C:\3semesteroplopg\Bog\UnitTestProjectBog\obj\Debug\netcoreapp2.1\UnitTestProjectBog.dll
+C:\3semesteroplopg\Bog\UnitTestProjectBog\obj\Debug\netcoreapp2.1\UnitTestProjectBog.pdb
